@@ -1,0 +1,10 @@
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\bin\Debug\Promedio de 3 números.exe.config
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\bin\Debug\Promedio de 3 números.exe
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\bin\Debug\Promedio de 3 números.pdb
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio de 3 números.csproj.AssemblyReference.cache
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio_de_3_números.Form1.resources
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio_de_3_números.Properties.Resources.resources
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio de 3 números.csproj.GenerateResource.cache
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio de 3 números.csproj.CoreCompileInputs.cache
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio de 3 números.exe
+C:\Users\estef\OneDrive\Documentos\promedio 2 capas\Promedio de 3 números\Promedio de 3 números\obj\Debug\Promedio de 3 números.pdb
